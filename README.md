@@ -1,3 +1,4 @@
+# THIS REPO HAS BEEN CLONED JUST FOR RESEARCH PURPOSE
 # WhatsApp Protocol Decryption Burp Tool
 
 This tool was created during our research at Checkpoint Software Technologies on Whatsapp Protocol.
